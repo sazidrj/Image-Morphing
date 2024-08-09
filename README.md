@@ -10,3 +10,7 @@
 <img src="morphed2.gif" alt="Morphed Gif" width="500"/>
 
 </div>
+
+<div>
+<img src="Images/Lab2/image morphing.png" alt="Morphed intermediate images" width="500"/>
+</div>

@@ -11,6 +11,6 @@
 
 </div>
 
-<div>
-<img src="Images/Lab2/image morphing.png" alt="Morphed intermediate images" width="500"/>
+<div align="center">
+<img src="Images/Lab2/image morphing.png" alt="Morphed intermediate images" width="1000"/>
 </div>
